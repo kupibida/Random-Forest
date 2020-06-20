@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591816908366.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3631593192",
+    "id" : "BDCE60DD",
+    "lastKnownWriteTime" : 1591817307,
+    "last_content_update" : 1591817307,
+    "path" : "C:/Users/rafal/Desktop/MOW_projekt/MOW/Rcode/randomForestImp_split_cov.R",
+    "project_path" : "randomForestImp_split_cov.R",
+    "properties" : {
+        "cursorPosition" : "14,23",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

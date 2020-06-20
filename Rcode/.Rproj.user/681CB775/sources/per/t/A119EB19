@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591816879774.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "824605928",
+    "id" : "A119EB19",
+    "lastKnownWriteTime" : 1592161536,
+    "last_content_update" : 1592161538737,
+    "path" : "C:/Users/rafal/Desktop/MOW_projekt/MOW/Rcode/examples.R",
+    "project_path" : "examples.R",
+    "properties" : {
+        "cursorPosition" : "64,0",
+        "scrollLine" : "57"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
